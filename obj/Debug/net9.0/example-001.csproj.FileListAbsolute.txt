@@ -1,0 +1,14 @@
+D:\asp-desde-cero\example-001\bin\Debug\net9.0\example-001.exe
+D:\asp-desde-cero\example-001\bin\Debug\net9.0\example-001.deps.json
+D:\asp-desde-cero\example-001\bin\Debug\net9.0\example-001.runtimeconfig.json
+D:\asp-desde-cero\example-001\bin\Debug\net9.0\example-001.dll
+D:\asp-desde-cero\example-001\bin\Debug\net9.0\example-001.pdb
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.AssemblyInfoInputs.cache
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.AssemblyInfo.cs
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.csproj.CoreCompileInputs.cache
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.dll
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\refint\example-001.dll
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.pdb
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\example-001.genruntimeconfig.cache
+D:\asp-desde-cero\example-001\obj\Debug\net9.0\ref\example-001.dll
